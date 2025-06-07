@@ -54,4 +54,9 @@ git clone https://github.com/your-username/salaries-case-study.git
 ```
 
 ## Contact Us
-Connect US :[Linkedin](https://www.linkedin.com/in/aditya-kumar-dwivedi-3702552aa/)
+**[Aditya Dwivedi]**
+📎 [LinkedIn: Connect for suggestions](https://www.linkedin.com/in/aditya-kumar-dwivedi-3702552aa/)
+
+
+
+> Thanks for checking out the project! Feedback and collaboration ideas are welcome.
